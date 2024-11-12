@@ -25,4 +25,5 @@ I’m a passionate and driven software developer, diving deep into the world of 
 - Always exploring new tools and technologies, improving my skills, and building projects for **Android**, **Web**, and **Game Development**.
 
 ## 📫 Contact Me
+- **Mail**: pubedev@gmail.com
 - **Discord**: `pubee`
