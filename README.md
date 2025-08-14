@@ -42,3 +42,7 @@ Currently, I’m sharpening my **JavaScript** skills and transitioning into **Re
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pubedev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-pubee-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=pube1&color=2E7BFF&style=for-the-badge&label=Ziyaretçi" alt="Profile Views" />
